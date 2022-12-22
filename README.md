@@ -8,5 +8,5 @@ Le serveur reçoit les informations d'un ou plusieurs client(s)
 
 Classe Info nous aide à avoirles informations du client 
 
-Classe MaFenetre afin d'afficher les informations du ou des client(s) qui sont reçus par le serveur
+Classe MaFenetre afin d'afficher les informations du ou des client(s) qui sont reçues par le serveur
 
